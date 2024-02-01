@@ -55,5 +55,19 @@
     "7tv_id": "649b89d33b4504dd621e53cc",
     "modifier": false,
     "local": false
-  }
+  },
+  {
+    "id": 5,
+    "user": {
+      "id": 1,
+      "verified": true,
+      "name": "q90do",
+      "displayName": "q90do"
+    },
+    "code": "kekw",
+    "imageType": "png",
+    "animated": false,
+    "modifier": false,
+    "local": true
+  },
 ]
