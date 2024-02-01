@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "id": 1,
+      "verified": true,
+      "name": "q90do",
+      "displayName": "q90do"
+    },
+    "code": "KEKW",
+    "imageType": "png",
+    "animated": false,
+    "modifier": false,
+    "local": true
+  },
+  {
+    "id": 2,
+    "user": {
+      "id": 1,
+      "verified": true,
+      "name": "q90do",
+      "displayName": "q90do"
+    },
+    "code": "PepeLaugh",
+    "imageType": "png",
+    "animated": false,
+    "modifier": false,
+    "local": true
+  },
+  {
+    "id": 3,
+    "user": {
+      "id": 1,
+      "verified": true,
+      "name": "q90do",
+      "displayName": "q90do"
+    },
+    "code": "OMEGALUL",
+    "imageType": "png",
+    "animated": false,
+    "modifier": false,
+    "local": true
+  },
+  {
+    "id": 4,
+    "user": {
+      "id": 1,
+      "verified": true,
+      "name": "q90do",
+      "displayName": "q90do"
+    },
+    "code": "Madge",
+    "imageType": "png",
+    "animated": false,
+    "7tv_id": "649b89d33b4504dd621e53cc",
+    "modifier": false,
+    "local": false
+  }
+]
